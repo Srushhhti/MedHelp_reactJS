@@ -189,7 +189,7 @@ class App extends Component {
                 />
                 <img
                   src="/images/eyelash.png"
-                  style="top: -2rem;width:5%;position: relative;left: 18rem; cursor:pointer;"
+                  style={{top: "-2rem",width:"5%",position: "relative",left: "18rem" ,cursor:"pointer"}}
                   id="togglers"
                 />
                 <div
