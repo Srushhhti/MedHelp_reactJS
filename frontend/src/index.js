@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import FrontSignup from './FrontSignup'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div style={{color:"hello",backgroundColor:"blue"}} class="hello"></div>
+<div style={{color:"hello",backgroundColor:"blue"}} class="hello"></div>
     <App />
+    <FrontSignup/>
   </React.StrictMode>
 );
 
