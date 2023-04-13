@@ -204,7 +204,7 @@ function Signup() {
               </div>
               <br />
               <button
-                className="btn btn-outline-secondary container-fluid"
+                className="btn mb-5 btn-outline-secondary container-fluid"
                 style={{marginLeft:"0.625rem",width:"95%"}}
               >
                 <img alt='#'
